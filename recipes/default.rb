@@ -7,10 +7,10 @@
 #
 #
 
-node[:libmysqlclient][:cookbooks].each do |cookbook|
+node['libmysqlclient']['cookbooks'].each do |cookbook|
   include_recipe cookbook
 end
 
-node[:libmysqlclient][:packages].each do |package|
+node['libmysqlclient']['packages'].each do |package|
   package package
 end
