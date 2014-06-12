@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/mikesplain/libmysqlclient-cookbook.svg?branch=master)](https://travis-ci.org/mikesplain/libmysqlclient-cookbook)
+[![Dependency Status](https://gemnasium.com/mikesplain/libmysqlclient-cookbook.svg)](https://gemnasium.com/mikesplain/libmysqlclient-cookbook)
+
+
 # libmysqlclient-cookbook
 
 A simple cookbook to install libmysqlclient & libmysqlclient-dev.
